@@ -27,38 +27,11 @@ li {
 
 li a {
   display: block;
-  color: ;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
-
-
-/********************************/
-/******Layout with sidebar ******/
-/********************************/
-.wrapper {
-  position: relative;
-  margin: 0 auto;
-  width: 100%;
-  max-width: 1140px;
-}
-.wrapper .sidebar{
-  position: relative;
-  width: 100%;
-  float: left;
-  background: #222222;
-}
-
-.wrapper .details {
-  position: relative;
-  width: 100%;
-  float: left;
-  background: #F6D155;
-}
-
-.wrapper .sidebar-header,
-.wrapper .sidebar-footer{
-  display: none;
-}
-
 .navbar {
   padding: 15px;
   background: #222222 !important;
