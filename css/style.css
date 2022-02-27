@@ -9,7 +9,12 @@
 }
 .Firstpage {
   background-color: #F6D155;
-
+}
+.Secondpage{
+  background-color: chartreuse;
+}
+.Thirdpage{
+  background-color: deepskyblue;
 }
 a{ 
   color: #222222;
