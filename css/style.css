@@ -1,7 +1,11 @@
 body{
+
   color: #666666;
   background: #F6D155;
   font-family: 'Open Sans', sans-serif;
+}
+img{
+  float: left;
 }
 a{ 
   color: #222222;
