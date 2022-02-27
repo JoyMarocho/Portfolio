@@ -1,11 +1,15 @@
-body{
+.body{
 
   color: #666666;
-  background: #F6D155;
+  background color: ;: #F6D155;
   font-family: 'Open Sans', sans-serif;
 }
-img{
+.img{
   float: left;
+}
+.Firstpage {
+  background-color: #F6D155;
+
 }
 a{ 
   color: #222222;
