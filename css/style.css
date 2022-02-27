@@ -16,25 +16,25 @@
 .Thirdpage{
   background-color: deepskyblue;
 }
-a{ 
+.a{ 
   color: #222222;
   transition: all .3s;
 }
-a:hover,
-a:active ,
-a:focus {
+.a:hover,
+.a:active ,
+.a:focus {
    color: #FF6F61;
    outline: none;
    text-decoration: none;
 }
-ul{
+.ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
 }
-li {
+.li {
   float: right;
 }
 
