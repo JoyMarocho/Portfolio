@@ -13,8 +13,8 @@
   font-size: 14px;
 }
 .ReachOut{
-  display: inline-block;
-  width: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration-color: #0e0d0d;
   text-align: center;
 }
 .Firstpage {
