@@ -14,7 +14,7 @@
   .home_banner_area .banner_inner {
     min-height: 650px;
   }
-  .header_area .navbar .nav .nav-item .submenu ul {
+  .header_area .navbar .nav .nav-item.submenu ul {
     left: auto;
     right: 0px;
   }
@@ -103,7 +103,7 @@
     max-height: 340px;
     overflow-y: scroll;
   }
-  .header_area .navbar.nav .nav-item .submenu ul .nav-item .nav-link {
+  .header_area .navbar.nav .nav-item.submenu ul .nav-item .nav-link {
     padding: 0px 15px;
   }
   .header_area .navbar .nav .nav-item {

@@ -22,22 +22,16 @@
   text-decoration: none;
   transition: all 0.3s ease-in-out;
 }
-.a:hover,
-.a:active,
-.a:focus {
+.a:hover,.a:active,.a:focus {
   outline: none;
   text-decoration: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1,h2,h3,h4,h5,h6 {
   font-family: "Heebo", sans-serif;
   font-weight: bold;
 }
+/*
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
@@ -232,6 +226,11 @@ h6 {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.navbar {
+  padding: 15px;
+  background: #222222 !important;
+}
+/*
 .ul {
   list-style-type: none;
   margin: 0;
@@ -250,7 +249,4 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-.navbar {
-  padding: 15px;
-  background: #222222 !important;
-}
+*/
