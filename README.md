@@ -23,7 +23,7 @@
  
  [Go Back to the top](#portfolio)
  ## Technology Used
- * HTNL - which was used to build the structure of the pages.
+ * HTML - which was used to build the structure of the pages.
  
  * CSS - which was used to style the pages incuding the left aside navigation bar
  * BOOTSTRAP - which was used to style the pages 
@@ -37,7 +37,7 @@
  
  MIT License
  
- Copyright (c) [2019] [Albert Byrone]
+ Copyright (c) [2022] [JOY MAROCHO]
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal

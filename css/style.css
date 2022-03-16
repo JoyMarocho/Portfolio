@@ -215,7 +215,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .Secondpage {
-  background-color: chartreuse;
+  
+  color: rgb(244, 217, 245);
   font-style: normal;
   font-size: 18px;
   text-align: justify;
