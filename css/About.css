@@ -7,7 +7,7 @@ body {
   font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  background-image: url("../img/about.jpeg")
+  background-image: url("../img/img.jpeg")
 }
 body::before {
     position: absolute;
@@ -33,7 +33,7 @@ form {
     box-shadow: 16px 10px 14px -2px rgba(128, 128, 128, 0.75);
     -webkit-box-shadow: 16px 10px 14px -2px rgba(128, 128, 128, 0.75);
     -moz-box-shadow: 16px 10px 14px -2px rgba(128, 128, 128, 0.75);
-    background-color: blanchedalmond;
+    background-color: rgb(13, 203, 236);
     font-size: 20px;
     border-radius: 20px;
 }
