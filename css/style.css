@@ -214,18 +214,6 @@ h1,h2,h3,h4,h5,h6 {
   align-self: center;
 }
 
-.Secondpage {
-  
-  color: rgb(244, 217, 245);
-  font-style: normal;
-  font-size: 18px;
-  text-align: justify;
-}
-.Thirdpage {
-  background-color: deepskyblue;
-  font-weight: 300;
-  font-family: Georgia, "Times New Roman", Times, serif;
-}
 
 .navbar {
   padding: 15px;
